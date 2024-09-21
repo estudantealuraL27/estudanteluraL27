@@ -2,7 +2,7 @@
 
 O meu nome é **Leticia**
 
-Eatou desenvolvendo SCRATCH e JAVASCRIPT 
+Estou desenvolvendo SCRATCH e JAVASCRIPT 
 
 ![Filme](https://media.tenor.com/AsdZhVGlUwwAAAAi/idhamtenorgif-2001.gif)
 
